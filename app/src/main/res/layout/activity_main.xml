@@ -36,7 +36,8 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
         android:padding="16dp"
-        android:text="Text"
+        android:text="@string/text"
+        android:textColor="@color/red"
         android:textAlignment="center"
         android:textSize="32sp" />
 
@@ -46,6 +47,7 @@
         android:layout_gravity="center_horizontal"
         android:padding="16dp"
         android:text="Text"
+        android:textColor="@color/red"
         android:textAlignment="center"
         android:textSize="32sp" />
 
